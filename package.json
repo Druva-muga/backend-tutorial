@@ -2,7 +2,7 @@
   "name": "backend8",
   "version": "1.0.0",
   "description": "a backend tutorial project",
-  "type":"module",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js"
@@ -12,5 +12,8 @@
     "backend"
   ],
   "author": "Druva kumar reddy",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^3.1.1"
+  }
 }
